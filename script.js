@@ -1,7 +1,7 @@
 /* ---------- CONFIG ---------- */
 const SHEET_ID = '1w06aHWUIa7Gq_Osx4gUCarQMf6PjvoFyTyPGvYfZ-KI';
 const GID = '1590178934';
-const CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&gid=${GID}`;
+const CSV_URL = `https://docs.google.com/spreadsheets/d/e/2PACX-1vTd-4tUayukSV_gmU9He2hCq8hrEcsxZeeT7qNLyW6fgp5DDvE4nj0Ewwld8mBcZuip20jVfwFoTc4M/pubhtml`;
 const AUTO_REFRESH_MS = 60000; // re-check the sheet every 60s
 
 // Column order in the sheet (0 = Timestamp, then Q1..Q8)
